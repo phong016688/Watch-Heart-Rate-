@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "386734909783",
+    "project_id": "fir-wearos",
+    "storage_bucket": "fir-wearos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386734909783:android:84998ce41ceed6f5f03612",
+        "android_client_info": {
+          "package_name": "com.example.heartratesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386734909783-bmslhlbo6i2i2o0u6f0j7add311ocphh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykmHr2UYBKy3C2w1pamAyY2koXNhPp7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386734909783-bmslhlbo6i2i2o0u6f0j7add311ocphh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386734909783:android:75c585b0454dc7eff03612",
+        "android_client_info": {
+          "package_name": "com.team_koder.heartrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386734909783-bmslhlbo6i2i2o0u6f0j7add311ocphh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykmHr2UYBKy3C2w1pamAyY2koXNhPp7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386734909783-bmslhlbo6i2i2o0u6f0j7add311ocphh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
